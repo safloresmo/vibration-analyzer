@@ -19,7 +19,7 @@ arduinoFFT FFT = arduinoFFT();
 
 // Variables para FFT
 #define SAMPLES 128             // Número de muestras (potencia de 2)
-#define SAMPLING_FREQUENCY 1000 // Frecuencia de muestreo en Hz
+#define SAMPLING_FREQUENCY 60000 // Frecuencia de muestreo en Hz
 #define BUFFER_SIZE (SAMPLES / 2 * 2) // Tamaño del buffer para dos mediciones
 double vReal[SAMPLES];
 double vImag[SAMPLES];
