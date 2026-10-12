@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1.528in" height="1.333in" viewBox="0 0 110 96">
+  <!-- Pantalla ILI9341 por SPI, vista de frente, con los pines abajo. -->
+  <rect width="110" height="96" rx="2.5" fill="#c1272d"/>
+  <g fill="#ffffff"><circle cx="4.5" cy="4.5" r="2.2"/><circle cx="105.5" cy="4.5" r="2.2"/><circle cx="4.5" cy="91.5" r="2.2"/><circle cx="105.5" cy="91.5" r="2.2"/></g>
+  <rect x="9" y="5" width="92" height="66" fill="#e7e7e7"/>
+  <rect x="11" y="7" width="88" height="62" fill="#0e0f12"/>
+  <g font-family="DejaVu Sans, Verdana, sans-serif" fill="#7e8794" text-anchor="middle"><text x="55" y="37" font-size="8">ILI9341</text><text x="55" y="47" font-size="5">320 x 240</text></g>
+  <circle cx="26.0" cy="90" r="2.5" fill="#a39a72"/><circle cx="26.0" cy="90" r="1.2" fill="#5c1013"/>
+  <text transform="translate(27.1 86) rotate(-90)" font-family="DejaVu Sans, Verdana, sans-serif" font-size="3.1" fill="#ffffff">SDO</text>
+  <circle cx="33.2" cy="90" r="2.5" fill="#a39a72"/><circle cx="33.2" cy="90" r="1.2" fill="#5c1013"/>
+  <text transform="translate(34.3 86) rotate(-90)" font-family="DejaVu Sans, Verdana, sans-serif" font-size="3.1" fill="#ffffff">LED</text>
+  <circle cx="40.4" cy="90" r="2.5" fill="#a39a72"/><circle cx="40.4" cy="90" r="1.2" fill="#5c1013"/>
+  <text transform="translate(41.5 86) rotate(-90)" font-family="DejaVu Sans, Verdana, sans-serif" font-size="3.1" fill="#ffffff">SCK</text>
+  <circle cx="47.6" cy="90" r="2.5" fill="#a39a72"/><circle cx="47.6" cy="90" r="1.2" fill="#5c1013"/>
+  <text transform="translate(48.7 86) rotate(-90)" font-family="DejaVu Sans, Verdana, sans-serif" font-size="3.1" fill="#ffffff">SDI</text>
+  <circle cx="54.8" cy="90" r="2.5" fill="#a39a72"/><circle cx="54.8" cy="90" r="1.2" fill="#5c1013"/>
+  <text transform="translate(55.9 86) rotate(-90)" font-family="DejaVu Sans, Verdana, sans-serif" font-size="3.1" fill="#ffffff">DC</text>
+  <circle cx="62.0" cy="90" r="2.5" fill="#a39a72"/><circle cx="62.0" cy="90" r="1.2" fill="#5c1013"/>
+  <text transform="translate(63.1 86) rotate(-90)" font-family="DejaVu Sans, Verdana, sans-serif" font-size="3.1" fill="#ffffff">RESET</text>
+  <circle cx="69.2" cy="90" r="2.5" fill="#a39a72"/><circle cx="69.2" cy="90" r="1.2" fill="#5c1013"/>
+  <text transform="translate(70.3 86) rotate(-90)" font-family="DejaVu Sans, Verdana, sans-serif" font-size="3.1" fill="#ffffff">CS</text>
+  <circle cx="76.4" cy="90" r="2.5" fill="#a39a72"/><circle cx="76.4" cy="90" r="1.2" fill="#5c1013"/>
+  <text transform="translate(77.5 86) rotate(-90)" font-family="DejaVu Sans, Verdana, sans-serif" font-size="3.1" fill="#ffffff">GND</text>
+  <circle cx="83.6" cy="90" r="2.5" fill="#a39a72"/><circle cx="83.6" cy="90" r="1.2" fill="#5c1013"/>
+  <text transform="translate(84.7 86) rotate(-90)" font-family="DejaVu Sans, Verdana, sans-serif" font-size="3.1" fill="#ffffff">VCC</text>
+</svg>
