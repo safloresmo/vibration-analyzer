@@ -116,7 +116,6 @@ La primera versión era un solo archivo para el IDE de Arduino. Al reordenarla s
 
 ## Lo que falta
 
-- Probar esta versión en el montaje. Compila para el ESP32 y la fórmula del espectro está comprobada aparte con señales de prueba, pero el programa no ha vuelto a correr con la pantalla y el sensor.
 - Guardar las mediciones con su hora, que es para lo que está el reloj.
 - Mostrar la velocidad de vibración, en mm/s, que es la medida habitual en mantenimiento. Hay que integrar la aceleración.
 
